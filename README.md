@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi 👋 !
 
-<!--
-**Daiten1/Daiten1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Daiten, i like **networking**. I also enjoy **coding** occasionally
 
-Here are some ideas to get you started:
+### I work with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Virtualization & Infrastructure:
+![VMware vSphere](https://img.shields.io/badge/VMware%20vsphere-%23007ACC.svg?style=for-the-badge&logo=vmware&logoColor=white)
+![HyperV](https://img.shields.io/badge/Hyper%20V-%23007ACC.svg?style=for-the-badge&logo=&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-%23323330.svg?style=for-the-badge&logo=proxmox&logoColor=orange)
+
+#### Development:
+![C++](https://img.shields.io/badge/C++-%231572B6.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![RenPy](https://img.shields.io/badge/RPY-%23ED8B00.svg?style=for-the-badge&logo=renpy&logoColor=white)
+
+#### Networking:
+![CiscoIOS](https://img.shields.io/badge/CISCO%20IOS-%23323330.svg?style=for-the-badge&logo=cisco&logoColor=blue)
