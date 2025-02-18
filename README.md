@@ -5,7 +5,7 @@ I'm Daiten, i like **networking**. I also enjoy **coding** occasionally
 ### I work with:
 
 #### Virtualization & Infrastructure:
-![VMware vSphere](https://img.shields.io/badge/VMware%20vsphere-%23007ACC.svg?style=for-the-badge&logo=vmware&logoColor=white)
+![VMware ESXi](https://img.shields.io/badge/VMware%20ESXi-%23007ACC.svg?style=for-the-badge&logo=vmware&logoColor=white)
 ![HyperV](https://img.shields.io/badge/Hyper%20V-%23007ACC.svg?style=for-the-badge&logo=&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-%23323330.svg?style=for-the-badge&logo=proxmox&logoColor=orange)
 
