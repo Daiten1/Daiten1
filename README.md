@@ -28,6 +28,7 @@ I'm Daiten, I like networking and IT infrastructure. I also enjoy coding occasio
 ![C++](https://img.shields.io/badge/C++-%231572B6.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/Powershell-%235835CC.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![Bash/Shell Script](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Ren'Py](https://img.shields.io/badge/Ren'Py-%23ED8B00.svg?style=for-the-badge&logo=renpy&logoColor=white)
