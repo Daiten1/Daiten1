@@ -10,7 +10,7 @@ I'm Daiten, I like networking and IT infrastructure. I also enjoy coding occasio
 
 ---
 
-### Technologies I Use:  
+### I Use:  
 
 #### 🖥️ **Virtualization & Infrastructure**  
 ![VMware ESXi](https://img.shields.io/badge/VMware%20ESXi-%23007ACC.svg?style=for-the-badge&logo=vmware&logoColor=white)
