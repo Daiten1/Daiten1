@@ -22,6 +22,7 @@ I'm Daiten, I like networking and IT infrastructure. I also enjoy coding occasio
 #### 💻 **Operating Systems**  
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
+![FreeBSD](https://img.shields.io/badge/FreeBSD-%23AB2B28.svg?style=for-the-badge&logo=freebsd&logoColor=white)
 
 #### 🛠️ **Development**  
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
