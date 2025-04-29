@@ -32,7 +32,7 @@ I'm Daiten, I like networking and IT infrastructure. I also enjoy coding occasio
 ![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/Powershell-%235835CC.svg?style=for-the-badge&logo=powershell&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Ren'Py](https://img.shields.io/badge/Ren'Py-%23ED8B00.svg?style=for-the-badge&logo=renpy&logoColor=white)
 
 #### 🌐 **Networking**  
